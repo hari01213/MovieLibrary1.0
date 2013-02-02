@@ -1,0 +1,6 @@
+If you face this kind of problem "network-related or instance-specific error occurred while establishing a connection to SQL Server "
+then plz check out this video.this has given instruction how to resolve network related problem.
+
+http://www.youtube.com/watch?v=fCHUERKhZi8
+
+You no need to search just copy the above URL and paste it in web address box and then enter then you will get this video.
